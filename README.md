@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christianramos10
+- 👋 Hi, I’m Christian Ramos
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on anywhere I can help
