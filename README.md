@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Christian Ramos
-- 👀 I’m interested in Java, SQL and .NET development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on anywhere I can help
+- 👋 Hi, I’m Christian Ramos.
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on anywhere I can help.
+- Courses: Introduction to Programming, Object-Oriented Programming, Data Structures, Web Development, Introduction to Databases, Web Development with Databases, and Data Structures. 
 - 📫 How to reach me: 
     linkedin: https://www.linkedin.com/in/christian-ramos-055a401bb/
 <!---
